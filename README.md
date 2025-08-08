@@ -84,12 +84,3 @@ O dataset contém informações sobre voos, como:
 * Testar modelos mais complexos como **Random Forest** e **XGBoost**.
 * Implementar validação cruzada para evitar overfitting.
 * Criar API para servir previsões em tempo real.
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-Se quiser, posso também criar **um README com badges, imagem de capa e exemplo visual de previsões** para deixar seu GitHub mais atraente. Isso dá um ar de projeto profissional de portfólio.
-Quer que eu já monte essa versão mais visual?
